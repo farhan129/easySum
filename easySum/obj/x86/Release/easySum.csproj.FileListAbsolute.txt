@@ -1,7 +1,0 @@
-c:\users\abdullah.farhan\documents\visual studio 2010\Projects\easySum\easySum\bin\Release\easySum.exe
-c:\users\abdullah.farhan\documents\visual studio 2010\Projects\easySum\easySum\bin\Release\easySum.pdb
-c:\users\abdullah.farhan\documents\visual studio 2010\Projects\easySum\easySum\obj\x86\Release\easySum.Form1.resources
-c:\users\abdullah.farhan\documents\visual studio 2010\Projects\easySum\easySum\obj\x86\Release\easySum.Properties.Resources.resources
-c:\users\abdullah.farhan\documents\visual studio 2010\Projects\easySum\easySum\obj\x86\Release\easySum.csproj.GenerateResource.Cache
-c:\users\abdullah.farhan\documents\visual studio 2010\Projects\easySum\easySum\obj\x86\Release\easySum.exe
-c:\users\abdullah.farhan\documents\visual studio 2010\Projects\easySum\easySum\obj\x86\Release\easySum.pdb
