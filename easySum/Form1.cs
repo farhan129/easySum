@@ -18,7 +18,7 @@ namespace easySum
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            lblVersion.Text += "12";
+            lblVersion.Text += "13";
         }
 
         private void btnAdd_Click(object sender, EventArgs e)
